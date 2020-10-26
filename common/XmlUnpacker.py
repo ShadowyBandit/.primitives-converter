@@ -1,5 +1,5 @@
 from struct import unpack
-from xml.etree import ElementTree as ET
+import xml.etree.ElementTree as ET
 import base64
 
 class XmlUnpacker:
