@@ -7,7 +7,7 @@
 bl_info = {
     'name': 'BigWorld Model (.primitives)',
     'author': 'SkepticalFox+ShadowyBandit',
-    'version': (1, 0, 0),
+    'version': (1, 0, 1),
     'blender': (2, 80, 0),
     'location': 'File > Import-Export',
     'description': 'World of Warships BigWorld Model Import/Export plugin',
